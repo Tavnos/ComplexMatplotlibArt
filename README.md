@@ -8,7 +8,7 @@ Made to get an intuitive understanding of complex circular motion and the depth 
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining3.png)
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining4.png)
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining5.png)
-![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining6.png)
+![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining6.jpg)
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining7.png)
 
 
