@@ -1,7 +1,7 @@
 # ComplexMatplotlibArt
 
 Made to get an intuitive understanding of complex circular motion and the depth of frequency modularity.
-
+Try this at your own risks, I'm not responsible for the resulting madness
 
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining.png)
 ![alt text](https://github.com/Tavnos/ComplexMatplotlibArt/blob/master/moretraining2.png)
